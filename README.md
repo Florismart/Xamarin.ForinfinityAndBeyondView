@@ -47,7 +47,7 @@ Usage
 Configurations ended! Now open your storyboard or simple xibs and use our 
 
 - HorizontalInfiniteAndBeyondView as UISCrollView horizontally
-- HorizontalInfiniteAndBeyondView as UISCrollView vertically
+- VerticalInfiniteAndBeyondView as UISCrollView vertically
 
 ...and set User Runtimes
 
